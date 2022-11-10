@@ -1,0 +1,16 @@
+Marketer
+1 super platforms 综合大型投放平台 Google
+2. DSP & DSPAN (DSP+Ad Network) 程序化广告采购方 
+3. Ad Exchange & SSP  程序化个广告供应方
+
+Ads
+
+1. Trading Desk & Tech 采购交易平台及技术
+2. Verification  广告验证
+3. Measurement & Analytics  监测分析工具
+4. Programmatic TV 程序化电视广告
+5. Programmatic DOOH 程序化数字户外广告
+6. Programmatic Creative  程序化创意
+7. Data Supplier & Data Management 数据提供和管理
+中国程序化广告技术生态图｜China Programmatic Ad Tech Landscape    https://www.rtbchina.com/china-programmatic-ad-tech-landscape
+
